@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+*.png
+*.jpg
+.DS_Store
+node_modules/
+quiz_agent.log

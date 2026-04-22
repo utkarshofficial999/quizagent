@@ -1,0 +1,17 @@
+browser:
+  headless: false
+  timeout: 30000
+  slow_mo: 500
+
+quiz:
+  default_wait: 2
+  max_retries: 3
+
+user:
+  name: "Utkarsh Yadav"
+  class_section: "29"
+  roll_no: "2400320101209"
+
+logging:
+  level: INFO
+  file: quiz_agent.log

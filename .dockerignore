@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+*.log
+.env
+.git
+.gitignore
+*.png
+*.jpg
+.DS_Store
+node_modules

@@ -1,7 +1,7 @@
 browser:
-  headless: false
+  headless: true
   timeout: 30000
-  slow_mo: 500
+  slow_mo: 0
 
 quiz:
   default_wait: 2
